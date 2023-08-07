@@ -1,0 +1,23 @@
+#leyenda{
+    font-size: var(--disclaimer-size);
+    font-style: italic;
+}
+
+.form-label{
+    font-family: "Mulish", sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.form-input{
+    border-color: var(--line-color);
+}
+
+.btn-primary{
+    font-family: "Mulish", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    width: 150px;
+    height:50px;
+    padding:0;
+}

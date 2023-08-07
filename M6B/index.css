@@ -1,0 +1,30 @@
+h1{
+    font-family: "Mulish", sans-serif;
+    font-weight: bold;
+    color: #04146c;
+    font-size: 37pt;
+}
+
+h2{
+    font-size: var(--h2-size);
+    color:var(--primary-color);
+}
+
+h3{
+    font-size: 1rem;
+    color:var(--secondary-color);
+}
+
+p{
+    font-family: "Mulish", sans-serif;
+    color:  #04146c;
+    font-size: 18pt;
+}
+
+strong{
+    color: #0a2ff1;
+}
+
+#compu{
+    height:50vh;
+}

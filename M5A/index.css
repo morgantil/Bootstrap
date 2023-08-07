@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Mulish', sans-serif; 
+    font-size: 40pt; 
+    color:#3957f1;
+    text-align: center;
+}
+
+.card{
+    border: solid black;
+    box-shadow: 3px;
+}
+
+p{
+    font-family: 'Mulish', sans-serif; 
+    font-size: 21pt; 
+    color:#15163d;
+}
